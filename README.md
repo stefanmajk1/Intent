@@ -2,7 +2,7 @@
  
 This is a simple Android application that demonstrates how to pass data between activities. The app consists of two activities: MainActivity and SecondActivity. The user enters their first name and last name in MainActivity, and the entered data is displayed in SecondActivity along with a welcome message.
 
-**Features**
+## Features
 Enter first name and last name in MainActivity
 Pass the entered data to SecondActivity
 Display the entered data and a welcome message in SecondActivity
@@ -10,12 +10,12 @@ Clear the fields in MainActivity
 Show a toast message for empty fields in MainActivity
 
 
-**Getting Started**
+## Getting Started
 To run this application, follow these steps:
 Open the project in Android Studio.
 Build and run the project on an Android emulator or device.
 
-**Dependencies**
+## Dependencies
 This app uses the following dependencies:
 
 AndroidX AppCompat: Provides a compatibility layer for accessing newer Android features on older devices.
@@ -25,7 +25,7 @@ AndroidX RecyclerView: Provides a flexible view for displaying large data sets.
 AndroidX CardView: Displays a card-like UI for individual items in a RecyclerView.
 AndroidX Material Components: Offers material design components and styles for modern Android apps.
 
-**Acknowledgments**
+## Acknowledgments
 Android Developer Documentation
 AndroidX
 Material Components for Android
